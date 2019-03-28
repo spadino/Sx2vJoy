@@ -1,9 +1,11 @@
-TESTED WITH vJoy VERSION 2.1.6
+TESTED WITH vJoy VERSION 2.1.8
+
+v1.3 add some tweaks for smoother startup
 
 v1.2 build 5 test 11
 - a couple of changes both to Sx2vJoy and the GUI to fix or at least help to track down the causes for crashes
 
-v1.2 build 5 test 9
+	v1.2 build 5 test 9
 - added SpaceNavigator for Notebooks support
 
 
